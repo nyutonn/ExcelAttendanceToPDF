@@ -1,3 +1,4 @@
+' Excel上ボタンを出現させるサブルーチン
 Sub createButtons()
     Dim ws As Worksheet
     Dim btnSavePDF As Shape
