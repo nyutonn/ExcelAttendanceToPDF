@@ -1,6 +1,5 @@
 # ExcelAttendanceToPDF
 ### 概要
-* Automatically generate PDFs from Excel sheets based on member attendance status
 * PDF自動生成ツール
 * Excelマクロ，VBAを用いた
 * ボタン一つで，全メンバーから出欠メンバーのみ別シートに抽出しつつ，表をPDF化する
